@@ -19,4 +19,7 @@ python detect.py --weights "..\weights\best.pt" --conf 0.1 --source images<br>
 ## Detection and Counting
 python detect_and_count.py --weights "..\weights\best.pt" --conf 0.1 --source images<br>
 
-![Stokoe20-58-scaled-1_jpg rf 4a3866396509fd59137030893589a039](https://user-images.githubusercontent.com/48621020/199690616-5f1dc421-7545-418a-87a4-1d7632931f3f.jpg)
+![Stokoe20-58-scaled-1_jpg rf 4a3866396509fd59137030893589a039](https://user-images.githubusercontent.com/48621020/199690616-5f1dc421-7545-418a-87a4-1d7632931f3f.jpg)<br>
+
+## References
+https://github.com/WongKinYiu/yolov7
