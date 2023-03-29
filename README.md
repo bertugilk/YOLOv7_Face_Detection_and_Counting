@@ -23,4 +23,5 @@ python detect_and_count.py --weights "..\weights\best.pt" --conf 0.1 --source im
 
 ## References
 https://github.com/WongKinYiu/yolov7<br>
-https://github.com/muratali016/Yolov7-Object-Counter-Custom-Funcitons
+https://github.com/muratali016/Yolov7-Object-Counter-Custom-Funcitons<br>
+https://github.com/DoganK01/YOLOV7-OBJECT-COUNTER-V1.2
